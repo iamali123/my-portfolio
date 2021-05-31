@@ -1,0 +1,11 @@
+.profile-image{
+    border: 1px solid seagreen;
+}
+#do{
+    width: 90px;
+    height: 40px;
+}
+a.resume-link {
+    font-size: 16px;
+    font-weight: 600;
+}
